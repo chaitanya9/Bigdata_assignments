@@ -1,0 +1,15 @@
+pwd - present working directory
+vi - vi editor
+touch - create new and empty file
+mkdir - make directory
+rm - remove file 
+ls - list all the files in the directory
+echo - shell command that writes its arguments to standard output
+cat - allows us to create single or multiple files, view contents of file, concatenate files and redirect output in terminal or files
+who - command to display users who are currently logged in your server
+cd - change directory
+date - displays system date
+cal - displays system calender
+mv - move contents of file to another file and delete original file.
+cp - copies contents of one file to another file.
+which -  commands searches the path of executable in system paths set in $PATH environment variable.
